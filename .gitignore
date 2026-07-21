@@ -1,0 +1,10 @@
+# Ignore root raw photos since they are copied inside assets/
+/photo 1.jfif
+/photo 2.jfif
+/photo 3.jfif
+/photo 4.jfif
+/photo 5.jpeg
+
+# Ignore prompt instructions
+/Description.md
+/Instructions.txt
